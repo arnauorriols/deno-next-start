@@ -1,0 +1,6 @@
+{
+    "name": "@orriols/deno-next-start",
+    "version": "0.1.0",
+    "exports": "./main.ts",
+    "license": "MIT"
+}
