@@ -1,5 +1,5 @@
 {
-    "name": "@orriols/deno-next-start",
+    "name": "@deno/nextjs-start",
     "version": "0.1.0",
     "exports": "./main.ts",
     "license": "MIT"
