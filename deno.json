@@ -1,6 +1,6 @@
 {
     "name": "@orriols/deno-next-start",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "exports": {
         ".": "./v15.ts",
         "./v15": "./v15.ts",
