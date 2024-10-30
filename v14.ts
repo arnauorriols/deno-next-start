@@ -1,4 +1,4 @@
-import { nextStart } from "npm:next@^15.0.1/dist/cli/next-start.js";
+import { nextStart } from "npm:next@^14/dist/cli/next-start.js";
 const keepAliveTimeoutEnv = Deno.env.get("DENO_NEXT_START_KEEP_ALIVE_TIMEOUT");
 const keepAliveTimeout = keepAliveTimeoutEnv &&
     parseInt(keepAliveTimeoutEnv) ||
