@@ -29,6 +29,11 @@ Make sure to use the `--include=.next --include=public` option, particularly if
 your project configuration is in commonjs and the config file has the `.js`
 extension (ie `next.config.js`).
 
+## Next.js version
+
+By default, this adapter uses Next.js v14. If you project depends on Next.js
+v15, use `jsr:@deno/nextjs-start/v15` as the entrypoint.
+
 # Configuration
 
 The following envs are available for configuration:

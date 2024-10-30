@@ -1,8 +1,8 @@
 {
-    "name": "@orriols/deno-next-start",
-    "version": "0.2.1",
+    "name": "@deno/nextjs-start",
+    "version": "0.1.3",
     "exports": {
-        ".": "./v15.ts",
+        ".": "./v14.ts",
         "./v15": "./v15.ts",
         "./v14": "./v14.ts"
     },
